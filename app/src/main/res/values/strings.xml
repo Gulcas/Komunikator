@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Komunikator</string>
+    <string name="send">Wyślij</string>
+    <string name="sendSMS">Wyślij SMS</string>
+    <string name="layout">Aktywność</string>
+    <string name="choser">Wysyłanie wiadomości</string>
+</resources>
